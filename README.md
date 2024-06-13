@@ -1,2 +1,2 @@
 # C-Sharp-Basics
-A compilation of code discussed in the workshop
+A compilation of C# code discussed in the workshop
